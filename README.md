@@ -34,6 +34,9 @@
 
 Выводы (итоги): В результате получен запрос, который собирает данные о балансах студентов за каждый "прожитый" ими день. https://metabase.sky.pro/question/79549
 
+![image](https://github.com/AlyYgudina/AlyYgudina/assets/142535420/7a1fab84-5719-4c17-beb5-c33662d35a4c)
+
+
 
 
 
